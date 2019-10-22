@@ -1,2 +1,3 @@
 # learn-github
-descrip
+描述
+第一second
